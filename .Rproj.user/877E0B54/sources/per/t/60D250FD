@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589840362280.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "163414928",
+    "id" : "60D250FD",
+    "lastKnownWriteTime" : 1589840382,
+    "last_content_update" : 1589840382399,
+    "path" : "C:/Users/talha/OneDrive/Desktop/existing_project/Additions.R",
+    "project_path" : "Additions.R",
+    "properties" : {
+        "cursorPosition" : "2,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
